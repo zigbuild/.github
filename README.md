@@ -1,4 +1,4 @@
-Zig build
+# Zig build
 
 **note: not afilliated with Zig Software Foundation*
 
